@@ -1,0 +1,512 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Passster - Age Verfication\n"
+"POT-Creation-Date: 2018-11-20 23:46+0100\n"
+"PO-Revision-Date: 2018-11-01 19:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: content-warning-v2.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/class-psag-admin.php:31
+msgid "Restrictions"
+msgstr ""
+
+#: src/class-psag-admin.php:41 src/class-psag-admin.php:56
+msgid "Display Mode"
+msgstr ""
+
+#: src/class-psag-admin.php:69
+msgid "Minimum Age"
+msgstr ""
+
+#: src/class-psag-admin.php:80
+msgid "Whitelist or Blacklist"
+msgstr ""
+
+#: src/class-psag-admin.php:88
+msgid ""
+"<b>Whitelist:</b> select where the age gate should show.<br><b>Blacklist:</"
+"b> select where the age gate should <b>not</b> show.<br><br><b>No selection:"
+"</b> If you keep the following fields empty, the age gate show everywhere "
+"(whitelist) or never (blacklist)."
+msgstr ""
+
+#: src/class-psag-admin.php:89 src/class-psag-admin.php:223
+msgid "How it works"
+msgstr ""
+
+#: src/class-psag-admin.php:99
+msgid "Select Pages"
+msgstr ""
+
+#: src/class-psag-admin.php:109
+msgid "Select Posts"
+msgstr ""
+
+#: src/class-psag-admin.php:119
+msgid "This include / exclude all posts from the selected category"
+msgstr ""
+
+#: src/class-psag-admin.php:120
+msgid "Select Categories"
+msgstr ""
+
+#: src/class-psag-admin.php:128 src/class-psag-admin.php:271
+msgid "WooCommerce"
+msgstr ""
+
+#: src/class-psag-admin.php:137
+msgid "Age Gate"
+msgstr ""
+
+#: src/class-psag-admin.php:146
+msgid ""
+"This option directly relates to your Whitelist settings from the "
+"restrictions tab."
+msgstr ""
+
+#: src/class-psag-admin.php:147
+msgid "Good to know"
+msgstr ""
+
+#: src/class-psag-admin.php:157
+msgid "Restrict Products"
+msgstr ""
+
+#: src/class-psag-admin.php:167
+msgid "This include / exclude all products from the selected product category"
+msgstr ""
+
+#: src/class-psag-admin.php:168
+msgid "Restrict Product Categories"
+msgstr ""
+
+#: src/class-psag-admin.php:177
+msgid "Registration and Checkout"
+msgstr ""
+
+#: src/class-psag-admin.php:186
+msgid "Add a age verification checkbox to the registration"
+msgstr ""
+
+#: src/class-psag-admin.php:195
+msgid "Add a age verification checkbox to the checkout"
+msgstr ""
+
+#: src/class-psag-admin.php:204
+msgid "Save Age Information in customer account"
+msgstr ""
+
+#: src/class-psag-admin.php:213 src/class-psag-admin.php:234
+msgid "Exclude Products"
+msgstr ""
+
+#: src/class-psag-admin.php:222
+msgid ""
+"This option requires a customer account ande the option \"Save Age "
+"Information\" activated."
+msgstr ""
+
+#: src/class-psag-admin.php:233
+msgid ""
+"Exclude products from the shop if user has not matched the minimum age in "
+"the verification"
+msgstr ""
+
+#: src/class-psag-admin.php:244
+msgid ""
+"Exclude product categories from the shop if user has not matched the minimum "
+"age in the verification"
+msgstr ""
+
+#: src/class-psag-admin.php:245
+msgid "Exclude Product Categories"
+msgstr ""
+
+#: src/class-psag-admin.php:253
+msgid "Addons"
+msgstr ""
+
+#: src/class-psag-admin.php:261
+msgid ""
+"All Addons are included in the <b>pro version of Passster Age Gate</b>. "
+"Activate and use the advanced features to get the maximum of out of age "
+"verification"
+msgstr ""
+
+#: src/class-psag-admin.php:262
+msgid "Explanation"
+msgstr ""
+
+#: src/class-psag-admin.php:280
+msgid ""
+"The WooCommerce Addon allows you to whitelist/blacklist products from the "
+"age gate, exclude products from your store if the age does not match, add "
+"age verification to registration and checkout and save the age of your "
+"customers."
+msgstr ""
+
+#: src/class-psag-admin.php:281 src/class-psag-admin.php:322
+msgid "Description"
+msgstr ""
+
+#: src/class-psag-admin.php:291 src/class-psag-admin.php:301
+msgid "Activate WooCommerce Addon"
+msgstr ""
+
+#: src/class-psag-admin.php:312
+msgid "Additional Verification Modes"
+msgstr ""
+
+#: src/class-psag-admin.php:321
+msgid ""
+"The Additional Verification Modes Addon enhance Passster Age Gate with "
+"multiple new design options for your age verification. Add a date picker or "
+"use a simple age slider to let users verify their age."
+msgstr ""
+
+#: src/class-psag-admin.php:332 src/class-psag-admin.php:342
+msgid "Activate Additional Verification Modes Addon"
+msgstr ""
+
+#: src/class-psag-admin.php:351
+msgid "Options"
+msgstr ""
+
+#: src/class-psag-admin.php:368
+msgid "The redirect URL if the exit button was clicked"
+msgstr ""
+
+#: src/class-psag-admin.php:369
+msgid "Exit URL"
+msgstr ""
+
+#: src/class-psag-admin.php:379
+msgid "Testmode"
+msgstr ""
+
+#: src/class-psag-admin.php:388
+msgid ""
+"When you activate the testmode, the age gate box will never close, so you "
+"can test every button and setting without reset the session."
+msgstr ""
+
+#: src/class-psag-admin.php:389
+msgid "How to test"
+msgstr ""
+
+#: src/class-psag-admin.php:398
+msgid "Activate the Testmode"
+msgstr ""
+
+#: src/class-psag-admin.php:407
+msgid "Session"
+msgstr ""
+
+#: src/class-psag-admin.php:416
+msgid "Name of the age gate session key"
+msgstr ""
+
+#: src/class-psag-admin.php:417
+msgid "Session name"
+msgstr ""
+
+#: src/class-psag-admin.php:426
+msgid "Users"
+msgstr ""
+
+#: src/class-psag-admin.php:435
+msgid "Show for unregistered users only"
+msgstr ""
+
+#: src/class-psag-admin.php:482
+#, php-format
+msgid ""
+"Thanks for using <b>Passster Age Gate</b>! Begin to setup your gate in your "
+"<a href=\"%s\">customizer</a>."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: src/class-psag-customizer.php:42
+msgid "Passster Age Gate"
+msgstr ""
+
+#: src/class-psag-customizer.php:47
+msgid "General"
+msgstr ""
+
+#: src/class-psag-customizer.php:70
+msgid "Background color"
+msgstr ""
+
+#: src/class-psag-customizer.php:84
+msgid "Container width (px)"
+msgstr ""
+
+#: src/class-psag-customizer.php:95
+msgid "Layout Mode"
+msgstr ""
+
+#: src/class-psag-customizer.php:100
+msgid "One Column"
+msgstr ""
+
+#: src/class-psag-customizer.php:101
+msgid "Two Columns"
+msgstr ""
+
+#: src/class-psag-customizer.php:132
+msgid "Upload your Logo"
+msgstr ""
+
+#: src/class-psag-customizer.php:153
+msgid "Background image (left column)"
+msgstr ""
+
+#: src/class-psag-customizer.php:185
+msgid "Use blur effect"
+msgstr ""
+
+#: src/class-psag-customizer.php:195
+msgid "#page"
+msgstr ""
+
+#: src/class-psag-customizer.php:198
+msgid "Blur effect container"
+msgstr ""
+
+#: src/class-psag-customizer.php:206
+msgid "3"
+msgstr ""
+
+#: src/class-psag-customizer.php:209
+msgid "Blur effect strength"
+msgstr ""
+
+#: src/class-psag-customizer.php:217
+msgid "Texts"
+msgstr ""
+
+#: src/class-psag-customizer.php:226 src/class-psag-templates.php:61
+#: src/class-psag-woocommerce-registration.php:114
+msgid "Age Verification"
+msgstr ""
+
+#: src/class-psag-customizer.php:234
+msgid "Headline"
+msgstr ""
+
+#: src/class-psag-customizer.php:245
+msgid ""
+"By clicking enter, I certify that I am over the age of [age] and will comply "
+"with the above statement."
+msgstr ""
+
+#: src/class-psag-customizer.php:253
+msgid "Instructions Text"
+msgstr ""
+
+#: src/class-psag-customizer.php:264 src/class-psag-templates.php:63
+msgid "Enter"
+msgstr ""
+
+#: src/class-psag-customizer.php:272
+msgid "Enter Button Label"
+msgstr ""
+
+#: src/class-psag-customizer.php:283 src/class-psag-templates.php:65
+msgid "Exit"
+msgstr ""
+
+#: src/class-psag-customizer.php:291
+msgid "Exit Button Label"
+msgstr ""
+
+#: src/class-psag-customizer.php:299 src/class-psag-templates.php:64
+msgid "Or"
+msgstr ""
+
+#: src/class-psag-customizer.php:302
+msgid "Separator Text"
+msgstr ""
+
+#: src/class-psag-customizer.php:310 src/class-psag-templates.php:66
+msgid "Always enjoy responsibily."
+msgstr ""
+
+#: src/class-psag-customizer.php:313
+msgid "Subtitle"
+msgstr ""
+
+#: src/class-psag-customizer.php:321
+msgid ""
+"THINC Pure products are only for use in states where the sale and "
+"consumption of such products are legal. "
+msgstr ""
+
+#: src/class-psag-customizer.php:324
+msgid "Logo Slogan"
+msgstr ""
+
+#: src/class-psag-customizer.php:332
+msgid "Colors"
+msgstr ""
+
+#: src/class-psag-customizer.php:342
+msgid "Headline color"
+msgstr ""
+
+#: src/class-psag-customizer.php:354
+msgid "Instruction color"
+msgstr ""
+
+#: src/class-psag-customizer.php:366
+msgid "Separator color"
+msgstr ""
+
+#: src/class-psag-customizer.php:378
+msgid "Subtitle color"
+msgstr ""
+
+#: src/class-psag-customizer.php:390
+msgid "Logo slogan color"
+msgstr ""
+
+#: src/class-psag-customizer.php:415
+msgid "Enter Button - Background Color"
+msgstr ""
+
+#: src/class-psag-customizer.php:427 src/class-psag-customizer.php:451
+msgid "Enter Button - Font Color"
+msgstr ""
+
+#: src/class-psag-customizer.php:439
+msgid "Exit Button - Background Color"
+msgstr ""
+
+#: src/class-psag-loader.php:172
+#, php-format
+msgid "Sorry, only persons over the age of %s may enter this site"
+msgstr ""
+
+#: src/class-psag-settings.php:460
+msgid "Copy Shortcode"
+msgstr ""
+
+#: src/class-psag-settings.php:477
+msgid "Copy Link"
+msgstr ""
+
+#: src/class-psag-settings.php:723
+msgid "Choose File"
+msgstr ""
+
+#: src/class-psag-settings.php:744
+msgid "Choose Image"
+msgstr ""
+
+#: src/class-psag-templates.php:62
+#, php-format
+msgid ""
+"By clicking enter, I certify that I am over the age of <b>%s</b> and will "
+"comply with the above statement."
+msgstr ""
+
+#: src/class-psag-woocommerce-registration.php:77
+#: src/class-psag-woocommerce-registration.php:167
+#, php-format
+msgid "I'm at least %s years old."
+msgstr ""
+
+#: src/class-psag-woocommerce-registration.php:90
+#: src/class-psag-woocommerce-registration.php:177
+#, php-format
+msgid "You have to be at least %s years old to complete the registration."
+msgstr ""
+
+#: src/class-psag-woocommerce-registration.php:117
+#, php-format
+msgid "The current user is at least %s years old."
+msgstr ""
+
+#: src/templates/select-age.php:15
+msgid "Day"
+msgstr ""
+
+#: src/templates/select-age.php:50
+msgid "Month"
+msgstr ""
+
+#: src/templates/select-age.php:51
+msgid "January"
+msgstr ""
+
+#: src/templates/select-age.php:52
+msgid "February"
+msgstr ""
+
+#: src/templates/select-age.php:53
+msgid "March"
+msgstr ""
+
+#: src/templates/select-age.php:54
+msgid "April"
+msgstr ""
+
+#: src/templates/select-age.php:55
+msgid "May"
+msgstr ""
+
+#: src/templates/select-age.php:56
+msgid "June"
+msgstr ""
+
+#: src/templates/select-age.php:57
+msgid "July"
+msgstr ""
+
+#: src/templates/select-age.php:58
+msgid "August"
+msgstr ""
+
+#: src/templates/select-age.php:59
+msgid "September"
+msgstr ""
+
+#: src/templates/select-age.php:60
+msgid "October"
+msgstr ""
+
+#: src/templates/select-age.php:61
+msgid "November"
+msgstr ""
+
+#: src/templates/select-age.php:62
+msgid "December"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://passster.io"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A modern and rock solid approach to age verification for your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Patrick Posner"
+msgstr ""

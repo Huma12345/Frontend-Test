@@ -1,0 +1,26 @@
+2019-06-22T12:41:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T12:42:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T12:43:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T12:45:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T12:47:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T12:49:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T12:51:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T13:47:02+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T13:48:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T13:50:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T13:52:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T13:54:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+
+2019-06-22T13:56:01+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\coding-test/wp-content/themes/storefront/classes/class-twentynineteen-svg-icons.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\coding-test\wp-content\themes\storefront-child\functions.php on line 298
+

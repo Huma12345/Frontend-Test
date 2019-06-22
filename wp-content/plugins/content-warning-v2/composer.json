@@ -1,0 +1,25 @@
+{
+  "name": "patrickposner/passster-age-gate",
+  "description": "passster age gate plugin",
+  "type": "wordpress-plugin",
+  "require": {
+  },
+  "license": "gpl",
+  "authors": [
+    {
+      "name": "Patrick Posner",
+      "email": "hello@patrickposner.de"
+    }
+  ],
+  "autoload": {
+    "classmap": [],
+    "files": [
+      "src/class-psag-settings.php",
+      "src/class-psag-admin.php",
+      "src/class-psag-helper.php",
+      "src/class-psag-templates.php",
+      "src/class-psag-loader.php",
+      "src/class-psag-customizer.php"
+    ]
+  }
+}
